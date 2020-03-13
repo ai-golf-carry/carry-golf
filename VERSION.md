@@ -1,11 +1,23 @@
 # Version
 # NEXT
+
+
+# 1.1.04 (2020-03-13 5pm)
   - firebase Crashlytic 추가 ( 3/12 완료 )
   - 비교보기화면 일부폰에서 간혈적 멈춤 현상 수정 ( 3/12 완료 )
   - firebase .json 재반영 ( 3/13 완료 )
   - 사이즈 최적화로 apk 크기 50% 줄임 ( 3/13 완료 )
   - 앨범 no data text 표시 ( 3/13 완료 )
 
+
+# TODO LIST
+    
+  - TODO : 옵션으로 녹화 완료 시 플래쉬 한번 깜박이기
+  - TODO : 소스정리 
+    
+---
+## 이전 업데이트 내역
+---
 
 # 1.1.03 (2020-03-12 3am)
   - admob 계정 변경 carryadmob ( 3/11 완료 )
@@ -19,16 +31,7 @@
     > 재생화면 마지막 영상 삭제 시 IndexOutOfBoundsException 수정 ( 3/11 완료 )  
     > Media player IllegalStateException 처리 ( 3/11 완료 )
 
-
-# TODO LIST
-    
-  - TODO : 옵션으로 녹화 완료 시 플래쉬 한번 깜박이기
-  - TODO : 소스정리 
-    
 ---
-## 이전 업데이트 내역
----
-
 
 # 1.1.02 (20-03-10)
   - splash 화면에 현재 버전표시 ( 3/10 완료 )
