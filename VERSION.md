@@ -1,6 +1,8 @@
 # Version
 # NEXT
   - 1.1.05 에서 비정상종료 NullPointerException 수정 ( 3/16 완료 )
+  - 영문버전에서 내경험입력 화면 죽는 버그 수정 ( 3/18 완료 )
+  
 
 # 1.1.05 (2020-03-14 3am)
   - admob 계정 변경 ai.golf.carry
