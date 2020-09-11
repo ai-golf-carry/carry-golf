@@ -2,6 +2,9 @@
 
 
 
+# TODO 
+  - Android 10 버전으로 변경된 부분 해결 [관련링크](https://developer.android.com/about/versions/10/behavior-changes-10?hl=ko)
+
 
 # 1.2.05 (2020-09-12 1am) beta version release
   - 버그 해결 
