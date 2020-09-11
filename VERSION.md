@@ -1,6 +1,18 @@
 # Version
 
-# NEXT
+
+
+
+# 1.2.05 (2020-09-12 1am) beta version release
+  - 버그 해결 
+    - PlayerActivity.java – line 2 / ai.golf.carry.PlayerActivity.togglePlay / 비정상 종료 (9/12 완료)
+    - Preview.java – line 73 /ai.golf.carry.camera.Preview.startPreview / 비정상 종료 (9/12 완료)
+  - 녹화 후 자동재생 video1: 전전 영상 ,  video2: 전 영상
+
+
+
+
+# SOME VERSION
   - 리스트 당겨서 새로고침 정도 조절 (5/9 완료)
   - 앨범에서 스크롤 다운했을 때 상단 바 숨김 (5/9 완료)
   - 녹화화면에서 밝기조절 (5/12 완료)
