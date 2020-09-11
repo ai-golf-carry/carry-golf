@@ -7,7 +7,8 @@
   - 버그 해결 
     - PlayerActivity.java – line 2 / ai.golf.carry.PlayerActivity.togglePlay / 비정상 종료 (9/12 완료)
     - Preview.java – line 73 /ai.golf.carry.camera.Preview.startPreview / 비정상 종료 (9/12 완료)
-  - 녹화 후 자동재생 video1: 전전 영상 ,  video2: 전 영상
+    - **노트10, 노트10+, S20 에서 죽는 문제인지는 확인해봐야함.**
+  - 녹화 후 자동재생 video1: 전전 영상 ,  video2: 전 영상 (9/12 완료)
 
 
 
