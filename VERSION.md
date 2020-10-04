@@ -1,5 +1,7 @@
 # Version
+  - keypoint 영상과 함께 db 에 저장(10/5 완료)
   - 앨범에서 마지막으로 본 영상 표시(10/5 완료)
+  - 녹화 후 자동재생 play sleep 0.5f 로 수정(10/5 완료)
   - 앨범에서 영상 간 간격표시(10/5 완료)
   - thumbnail 관련 deprecated 수정, PlayerActivity(10/5완료)
 
