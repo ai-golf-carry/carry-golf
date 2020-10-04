@@ -1,5 +1,7 @@
 # Version
-
+  - 앨범에서 마지막으로 본 영상 표시(10/5 완료)
+  - 앨범에서 영상 간 간격표시(10/5 완료)
+  - thumbnail 관련 deprecated 수정, PlayerActivity(10/5완료)
 
 
 # TODO 
