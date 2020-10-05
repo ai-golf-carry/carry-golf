@@ -1,4 +1,11 @@
 # Version
+
+
+# TODO 
+  - Android 10 버전으로 변경된 부분 해결 [관련링크](https://developer.android.com/about/versions/10/behavior-changes-10?hl=ko)
+
+
+# 1.2.08 (2020-10-05 23:23) beta
   - 앨범에서 영상클릭 시 죽는 버그 수정(10/5 완료)
   - 자동재생 시 "이전영상" "현재영상" 으로 텍스트 표시(10/5 완료)
   - keypoint 영상과 함께 db 에 저장(10/4 완료)
@@ -6,10 +13,6 @@
   - 녹화 후 자동재생 play sleep x0.5 로 수정(10/4 완료)
   - 앨범에서 영상 간 간격표시(10/4 완료)
   - thumbnail 관련 deprecated 수정, PlayerActivity(10/4 완료)
-
-
-# TODO 
-  - Android 10 버전으로 변경된 부분 해결 [관련링크](https://developer.android.com/about/versions/10/behavior-changes-10?hl=ko)
 
 
 # 1.2.05 (2020-09-12 1am) beta version release
