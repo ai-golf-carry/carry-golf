@@ -33,6 +33,13 @@ json string 이 clipboard 에 copy 됨.
     'list':
       [
         {
+          'title':'골프영상(최신순)',  /* 유튜브 목록 타이틀 */
+          'playListId':'',
+          'channel':'',
+          'q':'골프',  /* 검색어 입력 */
+          'order':'date' /* date, rating, viewCount 등.. */
+        },
+        {
           'title':'당신을 위한 추천 레슨', /* 유튜브 목록 타이틀 */
           'playListId':'PL2KtS99uNp9V0MV2eJsDh_Yfmf5lscI-d',  /* 재생목록 ID */
           'channel':'' /* 채널 ID */
